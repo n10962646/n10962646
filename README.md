@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Paul.</h1>
+<h1 align="center">Hi 👋, My name is Yomer</h1>
 
 #### Biomedical Data Scientist and Researcher 🔬 📊 💻
 ![Biomedical Data Scientist and Researcher 🔬 📊 💻](https://www.hpcwire.com/wp-content/uploads/2017/01/shutterstock_life_science.jpg)
