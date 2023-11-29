@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, My name is Yomer</h1>
 
-#### Biomedical Data Scientist and Researcher 🔬 📊 💻
+#### Data Scientist and Researcher 🔬 📊 💻
 ![Biomedical Data Scientist and Researcher 🔬 📊 💻](https://www.hpcwire.com/wp-content/uploads/2017/01/shutterstock_life_science.jpg)
-<h3 align="center">I am a passionate data scientist with an interest in the Health and Life Sciences industry. My interests are mostly related to biological and health sciences, including data analysis, data visualization, bioinformatics, and biomedical software.</h3>
+<h3 align="center">I am a passionate data scientist with an interest in the health, life sciences, environmental, and agriculture industries. My interests are mostly related to biological and health sciences, including data analysis, data visualization, bioinformatics, and biomedical software. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n10962646&label=Profile%20views&color=0e75b6&style=flat" alt="n10962646" /> </p>
 
