@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n10962646&label=Profile%20views&color=0e75b6&style=flat" alt="n10962646" /> </p>
 
 
-- 🔭 I’m currently working on **an image classifier.**
+- 🔭 I’m currently working on **an ECG classifier.**
 
 - 📫 How to reach me **n10962646@qut.edu.au**
 
