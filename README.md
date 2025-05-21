@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, My name is Paul</h1>
 
-#### Data Scientist 🔬 📊 💻
 ![Biomedical Data Scientist and Researcher 🔬 📊 💻](https://www.hpcwire.com/wp-content/uploads/2017/01/shutterstock_life_science.jpg)
 <h3 align="center"> I am a passionate biomedical data scientist with interests spanning various industries. My focus lies in applying machine learning techniques to tackle diverse challenges, encompassing data analysis, visualization and the development of innovative software solutions. </h3>
 
